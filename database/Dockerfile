@@ -1,4 +1,4 @@
-FROM mongo:6
+FROM mongo:latest
 
 EXPOSE 27017
 
